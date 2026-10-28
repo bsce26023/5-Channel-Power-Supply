@@ -1,4 +1,4 @@
-# Discreete Dual Output DC Power Supply
+# Discrete Dual Output DC Power Supply
 This is a Custom Designed 5 Channel DC power supply that provides 15V, 12V, 9V, 5V and 3.3V outputs.
 ![3D](Images/Building/10.jpg)
 
@@ -14,9 +14,9 @@ This Project is Simulated and Tested in Multisim. It worked fine there and suppl
 ## PCB and Connections
 I designed a Custom PCB for this project.
 
-|Schematics|Tracks|
+| Schematics | Tracks |
 | :---: | :---: |
-| ![schemetics](Images/Designing/Schematics.png) | ![Tracks](Images/Designing/PCB.JPG) |
+| <img src="Images/Designing/Schematics.png" width="400"> | <img src="Images/Designing/PCB.JPG" width="400"> |
 
 ## 3D Case
 
